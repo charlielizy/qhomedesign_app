@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/qhomedesign_app/static/css/main.98bdbbb6.chunk.css",
+    "main.js": "/qhomedesign_app/static/js/main.bd3308df.chunk.js",
+    "main.js.map": "/qhomedesign_app/static/js/main.bd3308df.chunk.js.map",
+    "runtime-main.js": "/qhomedesign_app/static/js/runtime-main.62eead48.js",
+    "runtime-main.js.map": "/qhomedesign_app/static/js/runtime-main.62eead48.js.map",
+    "static/css/2.2a86faee.chunk.css": "/qhomedesign_app/static/css/2.2a86faee.chunk.css",
+    "static/js/2.826a9b9b.chunk.js": "/qhomedesign_app/static/js/2.826a9b9b.chunk.js",
+    "static/js/2.826a9b9b.chunk.js.map": "/qhomedesign_app/static/js/2.826a9b9b.chunk.js.map",
+    "index.html": "/qhomedesign_app/index.html",
+    "precache-manifest.8dbbbfa09521d1b22796248f41f6731c.js": "/qhomedesign_app/precache-manifest.8dbbbfa09521d1b22796248f41f6731c.js",
+    "service-worker.js": "/qhomedesign_app/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/qhomedesign_app/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.98bdbbb6.chunk.css.map": "/qhomedesign_app/static/css/main.98bdbbb6.chunk.css.map",
+    "static/js/2.826a9b9b.chunk.js.LICENSE.txt": "/qhomedesign_app/static/js/2.826a9b9b.chunk.js.LICENSE.txt",
+    "static/media/iconfont.css": "/qhomedesign_app/static/media/iconfont.bc2be04e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62eead48.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.826a9b9b.chunk.js",
+    "static/css/main.98bdbbb6.chunk.css",
+    "static/js/main.bd3308df.chunk.js"
+  ]
+}
